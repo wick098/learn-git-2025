@@ -1,3 +1,5 @@
 hello world
 
 this line is from branch issue1
+
+this line is from branch issue2 only
